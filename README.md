@@ -57,10 +57,6 @@ Check the Screenshots folder for Site Screenshots and PPT
 
 - Firebase Authentication and Database.
 
-<h2 align= "left"><b>Meet Our Project Maintainers :</b></h2>
-<p align="left">
-  <img width=70% src="Screenshots/team.JPG"> &ensp;
-  
   <h2 align= "left"><b>Demo Video and Website Link 👇</b></h2>
 
 - Website Link : <a href="https://rail-express-service.netlify.app/" target="_blank">Welcome to Rail-Express Service</a>
